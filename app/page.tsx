@@ -51,7 +51,7 @@ export default function HomePage() {
                 >
                   <MessageCircle className="mr-2 h-5 w-5" />
                   <a
-                    href="https://www.facebook.com/profile.php?id=61578019610829"
+                    href="https://m.me/61578019610829"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
