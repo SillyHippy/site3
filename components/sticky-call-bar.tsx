@@ -26,7 +26,7 @@ export function StickyCallBar() {
           <span className="text-xs">Email</span>
         </a>
         <a
-          href="https://www.facebook.com/profile.php?id=61578019610829"
+          href="https://m.me/61578019610829"
           className="flex flex-col items-center gap-1 hover:bg-red-700 p-2 rounded transition-colors"
           target="_blank"
           rel="noopener noreferrer"

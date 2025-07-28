@@ -121,13 +121,13 @@ export default function ContactPage() {
                           <p className="text-gray-600 mb-3">Quick messages and service scheduling</p>
                           <Button asChild size="lg" variant="outline" className="w-full bg-transparent">
                             <a
-                              href="https://www.facebook.com/profile.php?id=61578019610829"
+                              href="https://m.me/61578019610829"
                               target="_blank"
                               rel="noopener noreferrer"
                               className="flex items-center justify-center gap-2"
                             >
                               <MessageCircle className="h-5 w-5" />
-                              Message Us on Facebook
+                              Message Us on Messenger
                             </a>
                           </Button>
                         </div>
@@ -150,7 +150,7 @@ export default function ContactPage() {
                       <div>
                         <h4 className="font-semibold text-gray-900 mb-2">Primary Service Areas:</h4>
                         <ul className="space-y-1 text-gray-700">
-                          <li>• 9th Street, Buhl, ID 83316 (Our home base)</li>
+                          <li>• 9th street buhl Idaho, Buhl, ID, United States, 83316 (Our home base)</li>
                           <li>• Filer, ID 83328</li>
                           <li>• Twin Falls, ID 83301</li>
                         </ul>
@@ -176,18 +176,8 @@ export default function ContactPage() {
                   <CardContent>
                     <div className="space-y-3">
                       <div>
-                        <h4 className="font-semibold text-blue-900">Regular Service:</h4>
-                        <p className="text-blue-800">Monday - Sunday: 7:00 AM - 7:00 PM</p>
-                      </div>
-                      <div>
-                        <h4 className="font-semibold text-blue-900">Emergency Service:</h4>
-                        <p className="text-blue-800">Available 24/7 for urgent repairs</p>
-                      </div>
-                      <div className="flex items-center gap-2 mt-4">
-                        <Zap className="h-4 w-4 text-yellow-600" />
-                        <span className="text-sm text-blue-800 font-medium">
-                          Same-day service available in primary areas
-                        </span>
+                        <h4 className="font-semibold text-blue-900">Hours:</h4>
+                        <p className="text-blue-800">Always open</p>
                       </div>
                     </div>
                   </CardContent>
@@ -203,15 +193,14 @@ export default function ContactPage() {
                           <Star key={i} className="h-4 w-4 text-yellow-500 fill-current" />
                         ))}
                       </div>
-                      <p className="text-green-800 font-semibold">100% Recommended</p>
-                      <p className="text-sm text-green-700">7+ reviews on Facebook</p>
+                      <p className="text-green-800 font-semibold">100% recommend (7 Reviews)</p>
                       <Button asChild size="sm" variant="outline" className="mt-3 bg-transparent">
                         <a
-                          href="https://www.facebook.com/profile.php?id=61578019610829"
+                          href="https://m.me/61578019610829"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
-                          Read Reviews
+                          Message Us on Messenger
                         </a>
                       </Button>
                     </div>
